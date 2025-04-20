@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://gh.eoboyweb.org/ipa_files/alienblue.2.8.2.patched.ipa</string>
+					<string>http://gh.eoboyweb.org/ipa_files/angrybirds.ipa?dl=0</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,19 +19,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://gh.eoboyweb.org/ipa_files/alienblue.2.8.2.patched.png</string>
+					<string>http://gh.eoboyweb.org/ipa_files/angrybirds.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.designshed.alienblue</string>
+				<string>com.clickgamer.angrybirds</string>
 				<key>bundle-version</key>
-				<string>2.8.2</string>
+				<string>1.0.0</string>
 				<key>kind</key>
-				<string>software</string>
+				<string>games</string>
 				<key>title</key>
-				<string>AlienBlue</string>
+				<string>Angry Birds</string>
 			</dict>
 		</dict>
 	</array>
